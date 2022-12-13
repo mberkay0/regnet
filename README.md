@@ -10,12 +10,10 @@
 </p>
 
 <p align="center">
-    If you are tired of new twitch ads, here is a little script for <img alt="twitch" width="26px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+    <img alt="tf" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
     <br/>
   </p>
 </p>
-
-![TensorFlow]()
 
 
 <!-- ABOUT THE PROJECT -->
