@@ -20,7 +20,7 @@
 ## Jupyter Notebook
 You can train the RegNet model on your dataset. Click the button below to open it on Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/cell-segmentation-with-machine-learning/blob/main/CellSegmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/regnet/blob/main/RegNet_(Self_Regulated_Network).ipynb)
 
 
 <!-- RESULTS -->
