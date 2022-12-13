@@ -34,9 +34,14 @@ Confusion Matrix
 | 0 | 74 | 5 |
 | 0 | 73 | 6 | 
 
-Visual Results
 
-<img src="/images/result.png" alt="example-result" width="600" height="500"/>
+
+<p align="center">
+    <img src="/images/result.png" alt="example-result" width="600" height="500"/>
+    <br>Visual Results<br/>
+  </p>
+</p>
+
 
 
 ## References
