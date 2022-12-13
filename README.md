@@ -38,7 +38,7 @@ Confusion Matrix
 
 
 <p align="center">
-    <img src="/images/result.png" alt="example-result" width="600" height="500"/>
+    <img src="/images/result.png" alt="example-result"/>
     <br>Visual Results<br/>
   </p>
 </p>
